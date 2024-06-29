@@ -2,19 +2,18 @@
 
 ## Week 1 - Advanced Computer Vision
 
-|                 | **Lectures**    | **Labs**        |
-|:---------------:|:---------------:|:---------------:|
-|                 | [Lab 1](https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Lab1.ipynb) [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Lab1.ipynb) |
-|:---------------:|:---------------:|:---------------:|         
-|                 |                 |                 |
-|                 |                 |                 |
-|                 |                 |                 |
-|                 |                 |                 |
+|                      | **Lectures**    | **Labs**        |
+|----------------------|:---------------:|:---------------:|
+| RNNs                 | [Lab 1](https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Lab1.ipynb)    [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Lab1.ipynb) |   
+| Attention            |                 |                 |
+| Video Classification |                 |                 |
+| VAEs                 |                 |                 |
+| GANs                 |                 |                 |
 
 ## Week 2 - GNN
 
 |                 | **Lectures**    | **Labs**        |
-|:---------------:|:---------------:|:---------------:|
+|-----------------|:---------------:|:---------------:|
 |                 |                 |                 |
 |                 |                 |                 |
 |                 |                 |                 |
@@ -24,7 +23,7 @@
 ## Week 3 - Generative Deep Learning
 
 |                 | **Lectures**    | **Labs**        |
-|:---------------:|:---------------:|:---------------:|
+|-----------------|:---------------:|:---------------:|
 | Intro           | [Link](https://github.com/DIG-Kaust/GenModelling/blob/main/slides/1_Intro.pdf)     |                        |
 | AutoEncoders    | [Link](https://github.com/DIG-Kaust/GenModelling/blob/main/slides/2_VAE.pdf)       | [Lab 1](https://github.com/DIG-Kaust/GenModelling/blob/main/labs/ae)        |
 | VAEs            | [Link](https://github.com/DIG-Kaust/GenModelling/blob/main/slides/2_VAE.pdf)       | [Lab 2](https://github.com/DIG-Kaust/GenModelling/blob/main/labs/vae)       |
@@ -35,7 +34,7 @@
 ## Week 4 - Reinforcement Learning
 
 |                 | **Lectures**    | **Labs**        |
-|:---------------:|:---------------:|:---------------:|
+|-----------------|:---------------:|:---------------:|
 |                 |                 |                 |
 |                 |                 |                 |
 |                 |                 |                 |
@@ -45,7 +44,7 @@
 ## Week 5 - Natural Language Processing
 
 |                 | **Lectures**    | **Labs**        |
-|:---------------:|:---------------:|:---------------:|
+|-----------------|:---------------:|:---------------:|
 |                 |                 |                 |
 |                 |                 |                 |
 |                 |                 |                 |
@@ -55,7 +54,7 @@
 ## Week 6 - Natural Language Processing
 
 |                 | **Lectures**    | **Labs**        |
-|:---------------:|:---------------:|:---------------:|
+|-----------------|:---------------:|:---------------:|
 |                 |                 |                 |
 |                 |                 |                 |
 |                 |                 |                 |
