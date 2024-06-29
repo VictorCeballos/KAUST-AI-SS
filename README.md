@@ -4,7 +4,7 @@
 
 |                      | **Lectures**    | **Labs**        |
 |:---------------------|:---------------:|:---------------:|
-| RNNs                 | [Slides]()      | [Lab 1](https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Lab1.ipynb) &nbsp; [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Lab1.ipynb) |   
+| RNNs                 | [Slides]()      | [Lab 1](https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day1/Lab1_Exercise.ipynb) &nbsp; [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day1/Lab1_Exercise.ipynb) |   
 | Attention            |                 |                 |
 | Video Classification |                 |                 |
 | VAEs                 |                 |                 |
