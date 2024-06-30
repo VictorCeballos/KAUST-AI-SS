@@ -1,24 +1,27 @@
 # KAUST AI Summer School 2024
 
+This AI Summer School offers an intensive 6-week program designed to provide participants with a thorough understanding of the latest advancements in AI and ML. Led by AI researchers and scientists, the summer school aims to equip attendees with essential knowledge to develop impactful AI solutions and establish a solid groundwork for pioneering research.
+
+The program features a blend of lectures, and interactive sessions, ensuring a dynamic and immersive learning experience. Upon completion, participants will work on AI projects and explore research concepts under the mentorship of experts from academia.
+
 ## Week 1 - Advanced Computer Vision
 
 |                      |                                                         **Lectures**                                                          | **Labs**        |
 |:---------------------|:-----------------------------------------------------------------------------------------------------------------------------:|:---------------:|
 | RNNs                 | [Slides](https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day1/1_RNNs.pdf) | [Lab 1](https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day1/Lab1_Exercise.ipynb) &nbsp; [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day1/Lab1_Exercise.ipynb) |   
-| Attention            |                                                                                                                               |                 |
-| Video Classification |                                                                                                                               |                 |
-| VAEs                 |                                                                                                                               |                 |
-| GANs                 |                                                                                                                               |                 |
+| Attention            | [Slides]()                                                                                                                    |                 |
+| Video Classification | [Slides]()                                                                                                                    |                 |
+| VAEs                 | [Slides]()                                                                                                                    |                 |
+| GANs                 | [Slides]()                                                                                                                    |                 |
 
-## Week 2 - GNN
+## Week 2 - Graph Neural Networks
 
 |                      | **Lectures**    | **Labs**        |
 |:---------------------|:---------------:|:---------------:|
-|                      |                 |                 |
-|                      |                 |                 |
-|                      |                 |                 |
-|                      |                 |                 |
-|                      |                 |                 |
+| Intro                | [Slides]()      |                 |
+| RNNs                 | [Slides]()      |                 |
+| Graph RNNs           | [Slides]()      |                 |
+| Gating               | [Slides]()      |                 |
 
 ## Week 3 - Generative Deep Learning
 
