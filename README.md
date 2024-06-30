@@ -1,5 +1,9 @@
 # KAUST AI Summer School 2024
 
+This AI Summer School offers an intensive 6-week program designed to provide participants with a thorough understanding of the latest advancements in AI and ML. Led by AI researchers and scientists, the summer school aims to equip attendees with essential knowledge to develop impactful AI solutions and establish a solid groundwork for pioneering research.
+
+The program features a blend of lectures, and interactive sessions, ensuring a dynamic and immersive learning experience. Upon completion, participants will work on AI projects and explore research concepts under the mentorship of experts from academia.
+
 ## Week 1 - Advanced Computer Vision
 
 |                      |                                                         **Lectures**                                                          | **Labs**        |
@@ -10,7 +14,7 @@
 | VAEs                 |                                                                                                                               |                 |
 | GANs                 |                                                                                                                               |                 |
 
-## Week 2 - GNN
+## Week 2 - Graph Neural Networks
 
 |                      | **Lectures**    | **Labs**        |
 |:---------------------|:---------------:|:---------------:|
