@@ -48,8 +48,7 @@ experts from academia.
   <tr>
     <td>GANs</td>
     <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day5/5_Generative%20AI_GANs_CLIP.pdf">Slides</a></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day5/GANs%20Exercise.ipynb">Lab</a></td>    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day5/GANs%20Exercise.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
     <td align="center"></td>
   </tr>
 </table>
