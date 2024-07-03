@@ -10,14 +10,49 @@ experts from academia.
 
 ## Week 1 - Advanced Computer Vision 
 
-|                      |      **Lectures**       |    **Labs**        |                      |   **Solutions**   |
-|:---------------------|:-----------------------:|:------------------:|:--------------------:|:-------------------------:|
-| RNNs                 | [Slides](https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day1/1_RNNs.pdf) | [Lab](https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day1/Lab1_Exercise.ipynb) | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day1/Lab1_Exercise.ipynb) | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day1/Lab1_Solved.ipynb) |
-| Attention            | [Slides](https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day1/2_Attention_ViT.pdf) | [Lab 1](https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day2/DFAN%20Exercise.ipynb), [Lab 2](https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day2/MHSA.ipynb)  | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day2/DFAN%20Exercise.ipynb) [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day2/MHSA.ipynb)|Soon
-| Video Classification | [Slides](https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day3/3_Video%20Classification.pdf) | [Lab](https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day3/Video_classification_Exercises.ipynb), [Video Classification Models](https://github.com/kenshohara/video-classification-3d-cnn-pytorch), [Applications](https://github.com/FathUMinUllah3797/VD_ConvLSTM_GRU/tree/main) | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ht8h-bzvAU7wDSlKAbrwW1SGrzygB1r9#scrollTo=_Ih_df2q0kw4) | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12rPSXtchX1Do07uEO2X8nkRtdR9dwk3d#scrollTo=_bROfh_K-Wxs)  |
-| VAEs | [Slides](https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day4/4_GenerativeAI_VAEs.pdf) | [Lab](https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day4/Lab4.ipynb) | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day4/Lab4.ipynb) | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day4/Lab4_Soln.ipynb) |     
-| GANs | [Slides](https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day5/5_Generative%20AI_GANs_CLIP.pdf) | [Lab Exercise]() | Soon | soon | 
-
+<table>
+  <tr>
+    <th></th>
+    <th><b>Lectures</b></th>
+    <th colspan="2"><b>Labs</b></th>
+    <th><b>Solutions</b></th>
+  </tr>
+  <tr>
+    <td>RNNs</td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day1/1_RNNs.pdf">Slides</a></td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day1/Lab1_Exercise.ipynb">Lab</a></td>
+    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day1/Lab1_Exercise.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
+    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day1/Lab1_Solved.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
+  </tr>
+  <tr>
+    <td>Attention</td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day2/2_Attention_ViT.pdf">Slides</a></td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day2/DFAN%20Exercise.ipynb">Lab 1</a>, <a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day2/MHSA.ipynb">Lab 2</a></td>
+    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day2/DFAN%20Exercise.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> <a href="[https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day2/DFAN%20Exercise.ipynb](https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day2/MHSA.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td>Video Classification</td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day3/3_Video%20Classification.pdf">Slides</a></td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day3/Video_classification_Exercises.ipynb">Lab</a>, <a href="https://github.com/kenshohara/video-classification-3d-cnn-pytorch">Video Classification Models</a>, <a href="https://github.com/FathUMinUllah3797/VD_ConvLSTM_GRU/tree/main">Applications</a></td>
+    <td align="center"><a href="https://colab.research.google.com/drive/1ht8h-bzvAU7wDSlKAbrwW1SGrzygB1r9#scrollTo=_Ih_df2q0kw4"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
+    <td align="center"><a href="https://colab.research.google.com/drive/12rPSXtchX1Do07uEO2X8nkRtdR9dwk3d#scrollTo=_bROfh_K-Wxs"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
+  </tr>
+  <tr>
+    <td>VAEs</td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day4/4_GenerativeAI_VAEs.pdf">Slides</a></td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day4/Lab4.ipynb">Lab</a></td>
+    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day4/Lab4.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
+    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day4/Lab4_Soln.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
+  </tr>
+  <tr>
+    <td>GANs</td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day5/5_Generative%20AI_GANs_CLIP.pdf">Slides</a></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+</table>
 
 
 ## Week 2 - Graph Neural Networks
@@ -28,6 +63,7 @@ experts from academia.
 | RNNs       |  [Slides]()  |          |
 | Graph RNNs |  [Slides]()  |          |
 | Gating     |  [Slides]()  |          |
+
 
 ## Week 3 - Generative Deep Learning
 
@@ -40,6 +76,7 @@ experts from academia.
 | NFs          |    [Slides](https://github.com/DIG-Kaust/GenModelling/blob/main/slides/4_NF.pdf)     |    [Lab 4](https://github.com/DIG-Kaust/GenModelling/blob/main/labs/nf)     | 
 | Diffusion    | [Slides](https://github.com/DIG-Kaust/GenModelling/blob/main/slides/5_Diffusion.pdf) | [Lab 5](https://github.com/DIG-Kaust/GenModelling/blob/main/labs/diffusion) |
 
+
 ## Week 4 - Reinforcement Learning
 
 |                      | **Lectures** | **Labs** |
@@ -50,6 +87,7 @@ experts from academia.
 |                      |              |          |
 |                      |              |          |
 
+
 ## Week 5 - Natural Language Processing
 
 |                      | **Lectures** | **Labs** |
@@ -59,6 +97,7 @@ experts from academia.
 |                      |              |          |
 |                      |              |          |
 |                      |              |          |
+
 
 ## Week 6 - Natural Language Processing
 
