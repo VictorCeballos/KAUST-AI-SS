@@ -59,10 +59,10 @@ experts from academia.
 
 |            | **Lectures** | **Labs** |
 |:-----------|:------------:|:--------:|
-| Intro      |  [Slides]()  |          |
-| RNNs       |  [Slides]()  |          |
-| Graph RNNs |  [Slides]()  |          |
-| Gating     |  [Slides]()  |          |
+| Intro      |  [Slides](https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/slides/graph_neural_networks_part_1.pdf)  |          |
+| RNNs       |  [Slides](https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/slides/graph_neural_networks_part_2.pdf)  |          |
+| Graph RNNs |  [Slides](https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/slides/graph_neural_networks_part_3.pdf)  |          |
+| Gating     |  [Slides](https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/slides/graph_neural_networks_part_4.pdf)  |          |
 
 
 ## Week 3 - Generative Deep Learning
