@@ -70,7 +70,7 @@ experts from academia.
     <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/slides/graph_neural_networks_part_1.pdf">Slides</a></td>
     <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day1/Lab1_Exercise.ipynb">Lab</a></td>
     <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day1/Lab1_Exercise.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
-    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day1/Lab1_Solved.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
+    <td align="center"></td>
   </tr>
   <tr>
     <td>RNNs</td>
@@ -88,6 +88,7 @@ experts from academia.
   </tr>
   <tr>
     <td>Gating</td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/slides/graph_neural_networks_part_4.pdf">Slides</a></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
