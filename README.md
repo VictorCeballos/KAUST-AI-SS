@@ -57,12 +57,42 @@ experts from academia.
 
 ## Week 2 - Graph Neural Networks
 
-|            | **Lectures** | **Labs** |
-|:-----------|:------------:|:--------:|
-| Intro      |  [Slides](https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/slides/graph_neural_networks_part_1.pdf)  |          |
-| RNNs       |  [Slides](https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/slides/graph_neural_networks_part_2.pdf)  |          |
-| Graph RNNs |  [Slides](https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/slides/graph_neural_networks_part_3.pdf)  |          |
-| Gating     |  [Slides](https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/slides/graph_neural_networks_part_4.pdf)  |          |
+
+<table>
+  <tr>
+    <th></th>
+    <th><b>Lectures</b></th>
+    <th colspan="2"><b>Labs</b></th>
+    <th><b>Solutions</b></th>
+  </tr>
+  <tr>
+    <td>GCNs</td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/slides/graph_neural_networks_part_1.pdf">Slides</a></td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day1/Lab1_Exercise.ipynb">Lab</a></td>
+    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day1/Lab1_Exercise.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
+    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day1/Lab1_Solved.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
+  </tr>
+  <tr>
+    <td>RNNs</td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/slides/graph_neural_networks_part_2.pdf">Slides</a></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td>Graph RNNs</td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/slides/graph_neural_networks_part_3.pdf">Slides</a></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td>Gating</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+</table>
 
 
 ## Week 3 - Generative Deep Learning
@@ -79,34 +109,142 @@ experts from academia.
 
 ## Week 4 - Reinforcement Learning
 
-|                      | **Lectures** | **Labs** |
-|:---------------------|:------------:|:--------:|
-|                      |              |          |
-|                      |              |          |
-|                      |              |          |
-|                      |              |          |
-|                      |              |          |
+<table>
+  <tr>
+    <th></th>
+    <th><b>Lectures</b></th>
+    <th colspan="2"><b>Labs</b></th>
+    <th><b>Solutions</b></th>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+</table>
 
 
 ## Week 5 - Natural Language Processing
 
-|                      | **Lectures** | **Labs** |
-|:---------------------|:------------:|:--------:|
-|                      |              |          |
-|                      |              |          |
-|                      |              |          |
-|                      |              |          |
-|                      |              |          |
+<table>
+  <tr>
+    <th></th>
+    <th><b>Lectures</b></th>
+    <th colspan="2"><b>Labs</b></th>
+    <th><b>Solutions</b></th>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+</table>
 
 
 ## Week 6 - Natural Language Processing
 
-|                      | **Lectures** | **Labs** |
-|:---------------------|:------------:|:--------:|
-|                      |              |          |
-|                      |              |          |
-|                      |              |          |
-|                      |              |          |
-|                      |              |          |
+<table>
+  <tr>
+    <th></th>
+    <th><b>Lectures</b></th>
+    <th colspan="2"><b>Labs</b></th>
+    <th><b>Solutions</b></th>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+</table>
 
 
