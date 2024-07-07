@@ -72,7 +72,7 @@ experts from academia.
     <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/labs/00_Graphs_NetworkX.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
     <td align="center"></td>
   </tr>
-  <tr
+  <tr>
     <td>GCNs</td>
     <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/slides/graph_neural_networks_part_1.pdf">Slides</a></td>
     <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/labs/01_GCN_KarateClub.ipynb">Lab 1</a> <br> <a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/labs/02_GCN_Cora.ipynb">Lab 2</a></td>
