@@ -108,11 +108,11 @@ experts from academia.
 |              |                                     **Lectures**                                     |                                  **Labs**                                   |
 |:-------------|:------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------:|
 | Intro        |   [Slides](https://github.com/DIG-Kaust/GenModelling/blob/main/slides/1_Intro.pdf)   |                                                                             |
-| AutoEncoders |    [Slides](https://github.com/DIG-Kaust/GenModelling/blob/main/slides/2_VAE.pdf)    |    [Lab 1](https://github.com/DIG-Kaust/GenModelling/blob/main/labs/ae)     |
-| VAEs         |    [Slides](https://github.com/DIG-Kaust/GenModelling/blob/main/slides/2_VAE.pdf)    |    [Lab 2](https://github.com/DIG-Kaust/GenModelling/blob/main/labs/vae)    |
-| GANs         |   [Slides](https://github.com/DIG-Kaust/GenModelling/blob/main/slides/3_GANs.pdf)    |   [Lab 3](https://github.com/DIG-Kaust/GenModelling/blob/main/labs/gans)    |
-| NFs          |    [Slides](https://github.com/DIG-Kaust/GenModelling/blob/main/slides/4_NF.pdf)     |    [Lab 4](https://github.com/DIG-Kaust/GenModelling/blob/main/labs/nf)     | 
-| Diffusion    | [Slides](https://github.com/DIG-Kaust/GenModelling/blob/main/slides/5_Diffusion.pdf) | [Lab 5](https://github.com/DIG-Kaust/GenModelling/blob/main/labs/diffusion) |
+| AutoEncoders |    [Slides](https://github.com/DIG-Kaust/GenModelling/blob/main/slides/2_VAE.pdf)    |                                                                             |
+| VAEs         |    [Slides](https://github.com/DIG-Kaust/GenModelling/blob/main/slides/2_VAE.pdf)    |                                                                             |
+| GANs         |   [Slides](https://github.com/DIG-Kaust/GenModelling/blob/main/slides/3_GANs.pdf)    |                                                                             |
+| NFs          |    [Slides](https://github.com/DIG-Kaust/GenModelling/blob/main/slides/4_NF.pdf)     |                                                                             |
+| Diffusion    | [Slides](https://github.com/DIG-Kaust/GenModelling/blob/main/slides/5_Diffusion.pdf) |                                                                             |
 
 
 ## Week 4 - Reinforcement Learning
