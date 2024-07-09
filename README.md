@@ -78,7 +78,7 @@ experts from academia.
     <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/labs/01_GCN_KarateClub_Soln.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> <br> <a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/labs/02_GCN_Cora_Soln.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> <br> <a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/labs/03_GCN_sol.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> <br> <a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/labs/04_GCN_sol.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
   </tr>
   <tr>
-    <td>RNNs</td>
+    <td>RGNNs</td>
     <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/slides/graph_neural_networks_part_2.pdf">Slides</a></td>
     <td align="center"></td>
     <td align="center"></td>
