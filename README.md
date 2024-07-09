@@ -8,7 +8,7 @@ The program features a blend of lectures, and interactive sessions, ensuring a d
 experience. Upon completion, participants will work on AI projects and explore research concepts under the mentorship of
 experts from academia.
 
-## Week 1 - Advanced Computer Vision 
+## Week 1 - Advanced Computer Vision
 
 <table>
   <tr>
@@ -54,9 +54,7 @@ experts from academia.
   </tr>
 </table>
 
-
 ## Week 2 - Graph Neural Networks
-
 
 <table>
   <tr>
@@ -102,7 +100,6 @@ experts from academia.
   </tr>
 </table>
 
-
 ## Week 3 - Generative Deep Learning
 
 |              |                                     **Lectures**                                     |                                  **Labs**                                   |
@@ -114,15 +111,14 @@ experts from academia.
 | NFs          |    [Slides](https://github.com/DIG-Kaust/GenModelling/blob/main/slides/4_NF.pdf)     |                                                                             |
 | Diffusion    | [Slides](https://github.com/DIG-Kaust/GenModelling/blob/main/slides/5_Diffusion.pdf) |                                                                             |
 
-
 ## Week 4 - Reinforcement Learning
 
 |              |                                     **Lectures**                                     |                                  **Labs**                                   |
 |:-------------|:------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------:|
-| Intro to RL MDP Q Learning        |   [Slides](https://github.com/DIG-Kaust/GenModelling/blob/main/slides/1_Intro.pdf)   |                                                                             |
-| Policy Gradient |    [Slides](https://github.com/DIG-Kaust/GenModelling/blob/main/slides/2_VAE.pdf)    |                                                                             |
-| Policy Search TRPO PPO         |    [Slides](https://github.com/DIG-Kaust/GenModelling/blob/main/slides/2_VAE.pdf)    |                                                                             |
-| Model Based RL         |   [Slides](https://github.com/DIG-Kaust/GenModelling/blob/main/slides/3_GANs.pdf)    |                                                                             |
+| Intro to RL MDP Q Learning        |   [Slides](https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week-4-RL/Slides/1_2_Intro_to_RL_MDP_Q_Learning.pdf)   |    [Lab-0](https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week-4-RL/Labs/1_Demo_RL_with_policies.ipynb)   <a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week-4-RL/Labs/1_Demo_RL_with_policies.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>                                                                      |
+| Policy Gradient |    [Slides](https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week-4-RL/Slides/3_Policy_Gradient.pdf)    |                                                                             |
+| Policy Search TRPO PPO         |    [Slides](https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week-4-RL/Slides/4_Policy_Search_TRPO_PPO.pdf)    |                                                                             |
+| Model Based RL         |   [Slides](https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week-4-RL/Slides/8_Model_Based_RL.pdf)    |                                                                             |
 
 ## Week 5 - Natural Language Processing
 
@@ -170,7 +166,6 @@ experts from academia.
   </tr>
 </table>
 
-
 ## Week 6 - Natural Language Processing
 
 <table>
@@ -216,5 +211,3 @@ experts from academia.
     <td align="center"></td>
   </tr>
 </table>
-
-
