@@ -125,35 +125,35 @@ experts from academia.
     <th><b>Solutions</b></th>
   </tr>
   <tr>
-    <td></td>
+    <td>Intro to RL</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
   <tr>
-    <td></td>
+    <td>Q learning</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
   <tr>
-    <td></td>
+    <td>Policy gradient</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
   <tr>
-    <td></td>
+    <td>Policy search</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
   <tr>
-    <td></td>
+    <td>Model-based RL</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
