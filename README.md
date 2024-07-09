@@ -117,50 +117,12 @@ experts from academia.
 
 ## Week 4 - Reinforcement Learning
 
-<table>
-  <tr>
-    <th></th>
-    <th><b>Lectures</b></th>
-    <th colspan="2"><b>Labs</b></th>
-    <th><b>Solutions</b></th>
-  </tr>
-  <tr>
-    <td>Intro to RL</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td>Q learning</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td>Policy gradient</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td>Policy search</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td>Model-based RL</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
-</table>
-
+|              |                                     **Lectures**                                     |                                  **Labs**                                   |
+|:-------------|:------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------:|
+| Intro to RL MDP Q Learning        |   [Slides](https://github.com/DIG-Kaust/GenModelling/blob/main/slides/1_Intro.pdf)   |                                                                             |
+| Policy Gradient |    [Slides](https://github.com/DIG-Kaust/GenModelling/blob/main/slides/2_VAE.pdf)    |                                                                             |
+| Policy Search TRPO PPO         |    [Slides](https://github.com/DIG-Kaust/GenModelling/blob/main/slides/2_VAE.pdf)    |                                                                             |
+| Model Based RL         |   [Slides](https://github.com/DIG-Kaust/GenModelling/blob/main/slides/3_GANs.pdf)    |                                                                             |
 
 ## Week 5 - Natural Language Processing
 
