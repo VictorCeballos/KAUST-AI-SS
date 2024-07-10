@@ -152,12 +152,50 @@ experts from academia.
 
 ## Week 4 - Reinforcement Learning
 
-|              |                                     **Lectures**                                     |                                                                                                                                                                                                                                                                                                                                                **Labs**                                                                                                                                                                                                                                                                                                                                                |
-|:-------------|:------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Intro to RL MDP Q Learning        |   [Slides](https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week-4-RL/Slides/1_2_Intro_to_RL_MDP_Q_Learning.pdf)   | [Lab-0](https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week-4-RL/Labs/1_Demo_RL_with_policies.ipynb) <a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week-4-RL/Labs/1_Demo_RL_with_policies.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" style="vertical-align:middle"></a>  <br>[Lab-1](https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week-4-RL/Labs/2_DQN.ipynb) <a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week-4-RL/Labs/2_DQN.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" style="vertical-align:middle"></a> |
-| Policy Gradient |    [Slides](https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week-4-RL/Slides/3_Policy_Gradient.pdf)    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| Policy Search TRPO PPO         |    [Slides](https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week-4-RL/Slides/4_Policy_Search_TRPO_PPO.pdf)    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| Model Based RL         |   [Slides](https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week-4-RL/Slides/8_Model_Based_RL.pdf)    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+<table>
+  <tr>
+    <th></th>
+    <th><b>Lectures</b></th>
+    <th colspan="2"><b>Labs</b></th>
+    <th><b>Solutions</b></th>
+  </tr>
+  <tr>
+    <td>Intro</td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week-4-RL/Slides/1_2_Intro_to_RL_MDP_Q_Learning.pdf">Slides</a></td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week-4-RL/Labs/1_Demo_RL_with_policies.ipynb">Lab 0</a></td>
+    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week-4-RL/Labs/1_Demo_RL_with_policies.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td>Q Learning</td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week-4-RL/Slides/1_2_Intro_to_RL_MDP_Q_Learning.pdf">Slides</a></td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week-4-RL/Labs/2_DQN.ipynb">Lab 0</a></td>
+    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week-4-RL/Labs/2_DQN.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td>Policy Gradient</td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week-4-RL/Slides/3_Policy_Gradient.pdf">Slides</a></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td>Policy Search</td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week-4-RL/Slides/4_Policy_Search_TRPO_PPO.pdf">Slides</a></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td>Model Based RL</td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week-4-RL/Slides/8_Model_Based_RL.pdf">Slides</a></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+</table>
+
 
 ## Week 5 - Natural Language Processing
 
