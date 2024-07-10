@@ -8,6 +8,7 @@ The program features a blend of lectures, and interactive sessions, ensuring a d
 experience. Upon completion, participants will work on AI projects and explore research concepts under the mentorship of
 experts from academia.
 
+
 ## Week 1 - Advanced Computer Vision
 
 <table>
@@ -54,6 +55,7 @@ experts from academia.
   </tr>
 </table>
 
+
 ## Week 2 - Graph Neural Networks
 
 <table>
@@ -77,13 +79,6 @@ experts from academia.
     <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/labs/01_GCN_KarateClub.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> <br> <a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/labs/02_GCN_Cora.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> <br> <a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/labs/03_GCN.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> <br> <a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/labs/04_GCN.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
     <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/labs/01_GCN_KarateClub_Soln.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> <br> <a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/labs/02_GCN_Cora_Soln.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> <br> <a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/labs/03_GCN_sol.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> <br> <a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/labs/04_GCN_sol.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
   </tr>
-<!--   <tr>
-    <td>RGNNs</td>
-    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/slides/graph_neural_networks_part_2.pdf">Slides</a></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr> -->
   <tr>
     <td>RGNNs</td>
     <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/slides/graph_neural_networks_part_3.pdf">Slides</a> <br> <a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/slides/graph_neural_networks_part_2.pdf">Slides</a></td>
@@ -100,16 +95,60 @@ experts from academia.
   </tr>
 </table>
 
+
 ## Week 3 - Generative Deep Learning
 
-|              |                                     **Lectures**                                     |                                  **Labs**                                   |
-|:-------------|:------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------:|
-| Intro        |   [Slides](https://github.com/DIG-Kaust/GenModelling/blob/main/slides/1_Intro.pdf)   |                                                                             |
-| AutoEncoders |    [Slides](https://github.com/DIG-Kaust/GenModelling/blob/main/slides/2_VAE.pdf)    |                                                                             |
-| VAEs         |    [Slides](https://github.com/DIG-Kaust/GenModelling/blob/main/slides/2_VAE.pdf)    |                                                                             |
-| GANs         |   [Slides](https://github.com/DIG-Kaust/GenModelling/blob/main/slides/3_GANs.pdf)    |                                                                             |
-| NFs          |    [Slides](https://github.com/DIG-Kaust/GenModelling/blob/main/slides/4_NF.pdf)     |                                                                             |
-| Diffusion    | [Slides](https://github.com/DIG-Kaust/GenModelling/blob/main/slides/5_Diffusion.pdf) |                                                                             |
+<table>
+  <tr>
+    <th></th>
+    <th><b>Lectures</b></th>
+    <th colspan="2"><b>Labs</b></th>
+    <th><b>Solutions</b></th>
+  </tr>
+  <tr>
+    <td>Intro</td>
+    <td align="center"><a href="https://github.com/DIG-Kaust/GenModelling/blob/main/slides/1_Intro.pdf">Slides</a></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td>AutoEncoders</td>
+    <td align="center"><a href="https://github.com/DIG-Kaust/GenModelling/blob/main/slides/2_VAE.pdf">Slides</a></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td>VAEs</td>
+    <td align="center"><a href="https://github.com/DIG-Kaust/GenModelling/blob/main/slides/2_VAE.pdf">Slides</a></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td>GANs</td>
+    <td align="center"><a href="https://github.com/DIG-Kaust/GenModelling/blob/main/slides/3_GANs.pdf">Slides</a></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td>NFs</td>
+    <td align="center"><a href="https://github.com/DIG-Kaust/GenModelling/blob/main/slides/4_NF.pdf">Slides</a></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td>Diffusion</td>
+    <td align="center"><a href="https://github.com/DIG-Kaust/GenModelling/blob/main/slides/5_Diffusion.pdf">Slides</a></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+</table>
+
 
 ## Week 4 - Reinforcement Learning
 
@@ -165,6 +204,7 @@ experts from academia.
     <td align="center"></td>
   </tr>
 </table>
+
 
 ## Week 6 - Natural Language Processing
 
