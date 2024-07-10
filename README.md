@@ -87,8 +87,8 @@ experts from academia.
     <td align="center"></td>
   </tr>
   <tr>
-    <td>Graph Adversarial Learning</td>
-    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/slides/graph_neural_networks_part_4.pdf">Slides</a></td>
+    <td>Point Clouds</td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/slides/GNNs_PointClouds.pdf">Slides</a></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
