@@ -169,7 +169,7 @@ experts from academia.
   <tr>
     <td>Q Learning</td>
     <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week-4-RL/Slides/1_2_Intro_to_RL_MDP_Q_Learning.pdf">Slides</a></td>
-    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week-4-RL/Labs/2_DQN.ipynb">Lab 0</a></td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week-4-RL/Labs/2_DQN.ipynb">Lab 1</a></td>
     <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week-4-RL/Labs/2_DQN.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
     <td align="center"></td>
   </tr>
