@@ -89,8 +89,8 @@ experts from academia.
   <tr>
     <td>Point Cloud Analysis</td>
     <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/slides/GNNs_PointClouds.pdf">Slides</a></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/labs/06_GNN_for_pointclouds.ipynb">Lab 6</a></td>
+    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/labs/06_GNN_for_pointclouds.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
     <td align="center"></td>
   </tr>
 </table>
