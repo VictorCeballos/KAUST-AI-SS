@@ -122,14 +122,14 @@ experts from academia.
   <tr>
     <td>AutoEncoders</td>
     <td align="center"><a href="https://github.com/DIG-Kaust/GenModelling/blob/main/slides/2_VAE.pdf">Slides</a></td>
-    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%203%20-%20Generative%20Deep%20Learning/Lab_AutoEncoders.ipynb">Lab 0</a></td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%203%20-%20Generative%20Deep%20Learning/Lab_AutoEncoders.ipynb">Lab 1</a></td>
     <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%203%20-%20Generative%20Deep%20Learning/Lab_AutoEncoders.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
     <td align="center"></td>
   </tr>
   <tr>
     <td>VAEs</td>
     <td align="center"><a href="https://github.com/DIG-Kaust/GenModelling/blob/main/slides/2_VAE.pdf">Slides</a></td>
-    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%203%20-%20Generative%20Deep%20Learning/Lab_VariationalAutoEncoders.ipynb">Lab 0</a></td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%203%20-%20Generative%20Deep%20Learning/Lab_VariationalAutoEncoders.ipynb">Lab 2</a></td>
     <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%203%20-%20Generative%20Deep%20Learning/Lab_VariationalAutoEncoders.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
     <td align="center"></td>
   </tr>
