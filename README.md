@@ -67,35 +67,35 @@ experts from academia.
   </tr>
   <tr>
     <td>Intro</td>
-    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/slides/graph_neural_networks_part_1.pdf">Slides</a></td>
-    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/labs/00_Graphs_NetworkX.ipynb">Lab 0</a></td>
-    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/labs/00_Graphs_NetworkX.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
-    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/labs/00_Graphs_NetworkX_Soln.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20Graph%20Neural%20Networks/slides/graph_neural_networks_part_1.pdf">Slides</a></td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20Graph%20Neural%20Networks/labs/00_Graphs_NetworkX.ipynb">Lab 0</a></td>
+    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20Graph%20Neural%20Networks/labs/00_Graphs_NetworkX.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
+    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20Graph%20Neural%20Networks/labs/00_Graphs_NetworkX_Soln.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
   </tr>
   <tr>
     <td>GCNs</td>
-    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/slides/graph_neural_networks_part_1.pdf">Slides</a></td>
-    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/labs/01_GCN_KarateClub.ipynb">Lab 1</a> <br> <a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/labs/02_GCN_Cora.ipynb">Lab 2</a> <br> <a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/labs/03_GCN.ipynb">Lab 3</a><br> <a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/labs/04_GCN.ipynb">Lab 4</a></td>
-    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/labs/01_GCN_KarateClub.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> <br> <a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/labs/02_GCN_Cora.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> <br> <a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/labs/03_GCN.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> <br> <a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/labs/04_GCN.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
-    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/labs/01_GCN_KarateClub_Soln.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> <br> <a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/labs/02_GCN_Cora_Soln.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> <br> <a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/labs/03_GCN_sol.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> <br> <a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/labs/04_GCN_sol.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20Graph%20Neural%20Networks/slides/graph_neural_networks_part_1.pdf">Slides</a></td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20Graph%20Neural%20Networks/labs/01_GCN_KarateClub.ipynb">Lab 1</a> <br> <a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20Graph%20Neural%20Networks/labs/02_GCN_Cora.ipynb">Lab 2</a> <br> <a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20Graph%20Neural%20Networks/labs/03_GCN.ipynb">Lab 3</a><br> <a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20Graph%20Neural%20Networks/labs/04_GCN.ipynb">Lab 4</a></td>
+    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20Graph%20Neural%20Networks/labs/01_GCN_KarateClub.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> <br> <a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20Graph%20Neural%20Networks/labs/02_GCN_Cora.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> <br> <a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20Graph%20Neural%20Networks/labs/03_GCN.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> <br> <a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20Graph%20Neural%20Networks/labs/04_GCN.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
+    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20Graph%20Neural%20Networks/labs/01_GCN_KarateClub_Soln.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> <br> <a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20Graph%20Neural%20Networks/labs/02_GCN_Cora_Soln.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> <br> <a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20Graph%20Neural%20Networks/labs/03_GCN_sol.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> <br> <a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20Graph%20Neural%20Networks/labs/04_GCN_sol.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
   </tr>
   <tr>
     <td>RGNNs</td>
-    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/slides/graph_neural_networks_part_2.pdf">Slides</a> <br> <a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/slides/graph_neural_networks_part_3.pdf">Slides</a> <br> <a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/slides/LSTM_GNN.pdf">Slides</a></td>
-    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/labs/05_RGNN.ipynb">Lab 5</a></td>
-    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/labs/05_RGNN.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
-    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/labs/05_RGNN_sol.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20Graph%20Neural%20Networks/slides/graph_neural_networks_part_2.pdf">Slides</a> <br> <a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20Graph%20Neural%20Networks/slides/graph_neural_networks_part_3.pdf">Slides</a> <br> <a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20Graph%20Neural%20Networks/slides/LSTM_GNN.pdf">Slides</a></td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20Graph%20Neural%20Networks/labs/05_RGNN.ipynb">Lab 5</a></td>
+    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20Graph%20Neural%20Networks/labs/05_RGNN.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
+    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20Graph%20Neural%20Networks/labs/05_RGNN_sol.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
   </tr>
   <tr>
     <td>Point Cloud Analysis</td>
-    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/slides/GNNs_PointClouds.pdf">Slides</a></td>
-    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/labs/06_GNN_for_pointclouds.ipynb">Lab 6</a></td>
-    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/labs/06_GNN_for_pointclouds.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
-        <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/labs/06_GNN_for_pointclouds_sol.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20Graph%20Neural%20Networks/slides/GNNs_PointClouds.pdf">Slides</a></td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20Graph%20Neural%20Networks/labs/06_GNN_for_pointclouds.ipynb">Lab 6</a></td>
+    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20Graph%20Neural%20Networks/labs/06_GNN_for_pointclouds.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
+        <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20Graph%20Neural%20Networks/labs/06_GNN_for_pointclouds_sol.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
   </tr>
   <tr>
     <td>Adversarial Learning</td>
-    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/slides/graph_neural_networks_part_4.pdf">Slides</a> <br> <a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20GNNs/slides/AdversarialAttacks.pdf">Slides</a></td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20Graph%20Neural%20Networks/slides/graph_neural_networks_part_4.pdf">Slides</a> <br> <a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20Graph%20Neural%20Networks/slides/AdversarialAttacks.pdf">Slides</a></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
@@ -168,35 +168,35 @@ experts from academia.
   </tr>
   <tr>
     <td>Intro</td>
-    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week-4-RL/Slides/1_2_Intro_to_RL_MDP_Q_Learning.pdf">Slides</a></td>
-    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week-4-RL/Labs/1_Demo_RL_with_policies.ipynb">Lab 0</a></td>
-    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week-4-RL/Labs/1_Demo_RL_with_policies.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%204%20-%20Reinforcement%20Learning/Slides/1_2_Intro_to_RL_MDP_Q_Learning.pdf">Slides</a></td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%204%20-%20Reinforcement%20Learning/Labs/1_Demo_RL_with_policies.ipynb">Lab 0</a></td>
+    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%204%20-%20Reinforcement%20Learning/Labs/1_Demo_RL_with_policies.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
     <td align="center"></td>
   </tr>
   <tr>
     <td>Q Learning</td>
-    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week-4-RL/Slides/1_2_Intro_to_RL_MDP_Q_Learning.pdf">Slides</a></td>
-    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week-4-RL/Labs/2_DQN.ipynb">Lab 1</a></td>
-    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week-4-RL/Labs/2_DQN.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%204%20-%20Reinforcement%20Learning/Slides/1_2_Intro_to_RL_MDP_Q_Learning.pdf">Slides</a></td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%204%20-%20Reinforcement%20Learning/Labs/2_DQN.ipynb">Lab 1</a></td>
+    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%204%20-%20Reinforcement%20Learning/Labs/2_DQN.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
     <td align="center"></td>
   </tr>
   <tr>
     <td>Policy Gradient</td>
-    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week-4-RL/Slides/3_Policy_Gradient.pdf">Slides</a></td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%204%20-%20Reinforcement%20Learning/Slides/3_Policy_Gradient.pdf">Slides</a></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
   <tr>
     <td>Policy Search</td>
-    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week-4-RL/Slides/4_Policy_Search_TRPO_PPO.pdf">Slides</a></td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%204%20-%20Reinforcement%20Learning/Slides/4_Policy_Search_TRPO_PPO.pdf">Slides</a></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
   <tr>
     <td>Model Based RL</td>
-    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week-4-RL/Slides/8_Model_Based_RL.pdf">Slides</a></td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%204%20-%20Reinforcement%20Learning/Slides/8_Model_Based_RL.pdf">Slides</a></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
