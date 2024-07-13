@@ -142,9 +142,9 @@ experts from academia.
   </tr>
   <tr>
     <td>NFs</td>
-    <td align="center"><a href="https://github.com/DIG-Kaust/GenModelling/blob/main/slides/4_NF.pdf">Slides</a></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center"><a href="https://github.com/DIG-Kaust/GenModelling/blob/main/slides/4_NFs.pdf">Slides</a></td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%203%20-%20Generative%20Deep%20Learning/NF_mnist_Exercise.ipynb">Lab 4</a></td>
+    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%203%20-%20Generative%20Deep%20Learning/NF_mnist_Exercise.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>    
     <td align="center"></td>
   </tr>
   <tr>
