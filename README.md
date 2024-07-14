@@ -124,7 +124,7 @@ experts from academia.
     <td align="center"><a href="https://github.com/DIG-Kaust/GenModelling/blob/main/slides/2_VAE.pdf">Slides</a></td>
     <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%203%20-%20Generative%20Deep%20Learning/Lab_AutoEncoders.ipynb">Lab 1</a></td>
     <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%203%20-%20Generative%20Deep%20Learning/Lab_AutoEncoders.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
-    <td align="center"></td>
+    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%203%20-%20Generative%20Deep%20Learning/Lab_AutoEncoders_Soln.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
   </tr>
   <tr>
     <td>VAEs</td>
