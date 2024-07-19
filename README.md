@@ -8,7 +8,6 @@ The program features a blend of lectures, and interactive sessions, ensuring a d
 experience. Upon completion, participants will work on AI projects and explore research concepts under the mentorship of
 experts from academia.
 
-
 ## Week 1 - Advanced Computer Vision
 
 <table>
@@ -55,7 +54,6 @@ experts from academia.
   </tr>
 </table>
 
-
 ## Week 2 - Graph Neural Networks
 
 <table>
@@ -101,7 +99,6 @@ experts from academia.
     <td align="center"></td>
   </tr>
 </table>
-
 
 ## Week 3 - Generative Deep Learning
 
@@ -156,7 +153,6 @@ experts from academia.
   </tr>
 </table>
 
-
 ## Week 4 - Reinforcement Learning
 
 <table>
@@ -167,17 +163,14 @@ experts from academia.
     <th><b>Solutions</b></th>
   </tr>
   <tr>
-    <td>Intro</td>
+    <td>Intro and Q Learning</td>
     <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%204%20-%20Reinforcement%20Learning/Slides/1_2_Intro_to_RL_MDP_Q_Learning.pdf">Slides</a></td>
-    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%204%20-%20Reinforcement%20Learning/Labs/1_Demo_RL_with_policies.ipynb">Lab 0</a></td>
-    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%204%20-%20Reinforcement%20Learning/Labs/1_Demo_RL_with_policies.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td>Q Learning</td>
-    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%204%20-%20Reinforcement%20Learning/Slides/1_2_Intro_to_RL_MDP_Q_Learning.pdf">Slides</a></td>
-    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%204%20-%20Reinforcement%20Learning/Labs/2_DQN.ipynb">Lab 1</a></td>
-    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%204%20-%20Reinforcement%20Learning/Labs/2_DQN.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
+    <td align="center">
+    <a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%204%20-%20Reinforcement%20Learning/Labs/1_Demo_RL_with_policies.ipynb">Lab 1</a> <br>
+     <a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%204%20-%20Reinforcement%20Learning/Labs/2_Q_Learning_Exercise.ipynb">Lab 2</a> <br>
+      <a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%204%20-%20Reinforcement%20Learning/Labs/2_SARSA_Exercise.ipynb">Lab 3</a><br>
+       <a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%204%20-%20Reinforcement%20Learning/Labs/2_DQN.ipynb">Lab 4</a></td>
+    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%204%20-%20Reinforcement%20Learning/Labs/1_Demo_RL_with_policies.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> <br> <a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%204%20-%20Reinforcement%20Learning/Labs/2_Q_Learning_Exercise.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> <br> <a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%204%20-%20Reinforcement%20Learning/Labs/2_SARSA_Exercise.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> <br> <a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%204%20-%20Reinforcement%20Learning/Labs/2_DQN.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
     <td align="center"></td>
   </tr>
   <tr>
@@ -202,7 +195,6 @@ experts from academia.
     <td align="center"></td>
   </tr>
 </table>
-
 
 ## Week 5 - Natural Language Processing
 
@@ -249,7 +241,6 @@ experts from academia.
     <td align="center"></td>
   </tr>
 </table>
-
 
 ## Week 6 - Natural Language Processing
 
