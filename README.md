@@ -34,7 +34,7 @@ experts from academia.
   <tr>
     <td>Video Classification</td>
     <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day3/3_Video%20Classification.pdf">Slides</a></td>
-    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day3/Video_classification_Exercises.ipynb">Lab</a> <br> <a href="https://github.com/kenshohara/video-classification-3d-cnn-pytorch">Video Classification Models</a> <br> <a href="https://github.com/FathUMinUllah3797/VD_ConvLSTM_GRU/tree/main">Applications</a></td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%201%20-%20Advanced%20Computer%20Vision/Day3/Video_classification_Exercises.ipynb">Lab</a></td>
     <td align="center"><a href="https://colab.research.google.com/drive/1ht8h-bzvAU7wDSlKAbrwW1SGrzygB1r9#scrollTo=_Ih_df2q0kw4"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
     <td align="center"><a href="https://colab.research.google.com/drive/12rPSXtchX1Do07uEO2X8nkRtdR9dwk3d#scrollTo=_bROfh_K-Wxs"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
   </tr>
