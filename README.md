@@ -149,8 +149,7 @@ experts from academia.
     <td align="center"><a href="https://github.com/DIG-Kaust/GenModelling/blob/main/slides/5_Diffusion.pdf">Slides</a></td>
     <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%203%20-%20Generative%20Deep%20Learning/DiffusionModels_Exercise.ipynb">Lab 5</a></td>
     <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%203%20-%20Generative%20Deep%20Learning/DiffusionModels_Exercise.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
-    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%203%20-%20Generative%20Deep%20Learning/DiffusionModels_Solution.ipynb">Solution</a></td>
-  </tr>
+    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%203%20-%20Generative%20Deep%20Learning/DiffusionModels_Solution.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>  </tr>
 </table>
 
 ## Week 4 - Reinforcement Learning
