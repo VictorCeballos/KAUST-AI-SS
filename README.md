@@ -89,7 +89,7 @@ experts from academia.
     <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20Graph%20Neural%20Networks/slides/GNNs_PointClouds.pdf">Slides</a></td>
     <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20Graph%20Neural%20Networks/labs/06_GNN_for_pointclouds.ipynb">Lab 6</a></td>
     <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20Graph%20Neural%20Networks/labs/06_GNN_for_pointclouds.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
-        <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20Graph%20Neural%20Networks/labs/06_GNN_for_pointclouds_sol.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
+    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%202%20-%20Graph%20Neural%20Networks/labs/06_GNN_for_pointclouds_sol.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
   </tr>
   <tr>
     <td>Adversarial Learning</td>
@@ -149,7 +149,8 @@ experts from academia.
     <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%203%20-%20Generative%20Deep%20Learning/Slides/5_Diffusion.pdf">Slides</a></td>
     <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%203%20-%20Generative%20Deep%20Learning/Labs/DiffusionModels_Exercise.ipynb">Lab 5</a></td>
     <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%203%20-%20Generative%20Deep%20Learning/Labs/DiffusionModels_Exercise.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
-    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%203%20-%20Generative%20Deep%20Learning/Labs/DiffusionModels_Solution.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>  </tr>
+    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%203%20-%20Generative%20Deep%20Learning/Labs/DiffusionModels_Solution.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
+  </tr>
 </table>
 
 ## Week 4 - Reinforcement Learning
@@ -164,11 +165,7 @@ experts from academia.
   <tr>
     <td>Intro and Q Learning</td>
     <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%204%20-%20Reinforcement%20Learning/Slides/1_2_Intro_to_RL_MDP_Q_Learning.pdf">Slides</a></td>
-    <td align="center">
-    <a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%204%20-%20Reinforcement%20Learning/Labs/1_Demo_RL_with_policies.ipynb">Lab 1</a> <br>
-     <a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%204%20-%20Reinforcement%20Learning/Labs/2_Q_Learning_Exercise.ipynb">Lab 2</a> <br>
-      <a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%204%20-%20Reinforcement%20Learning/Labs/2_SARSA_Exercise.ipynb">Lab 3</a><br>
-       <a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%204%20-%20Reinforcement%20Learning/Labs/2_DQN.ipynb">Lab 4</a></td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%204%20-%20Reinforcement%20Learning/Labs/1_Demo_RL_with_policies.ipynb">Lab 1</a> <br> <a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%204%20-%20Reinforcement%20Learning/Labs/2_Q_Learning_Exercise.ipynb">Lab 2</a> <br> <a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%204%20-%20Reinforcement%20Learning/Labs/2_SARSA_Exercise.ipynb">Lab 3</a> <br> <a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%204%20-%20Reinforcement%20Learning/Labs/2_DQN.ipynb">Lab 4</a></td>
     <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%204%20-%20Reinforcement%20Learning/Labs/1_Demo_RL_with_policies.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> <br> <a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%204%20-%20Reinforcement%20Learning/Labs/2_Q_Learning_Exercise.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> <br> <a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%204%20-%20Reinforcement%20Learning/Labs/2_SARSA_Exercise.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> <br> <a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%204%20-%20Reinforcement%20Learning/Labs/2_DQN.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
     <td align="center"></td>
   </tr>
