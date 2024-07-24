@@ -181,7 +181,14 @@ experts from academia.
     <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%204%20-%20Reinforcement%20Learning/Slides/4_Policy_Search_TRPO_PPO.pdf">Slides</a></td>
     <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%204%20-%20Reinforcement%20Learning/Labs/4_StableBaselines3.ipynb">Lab 6</a></td>
     <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%204%20-%20Reinforcement%20Learning/Labs/4_StableBaselines3.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
-    <td align="center"></td>
+    <td align="center"><a href="https://colab.research.google.com/github.com/VictorCeballos/KAUST-AI-SS/tree/main/Week%204%20-%20Reinforcement%20Learning/Labs/4_StableBaselines3_Solutions/4_StableBaselines3_Solution_1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
+    <td align="center"><a href="https://colab.research.google.com/github.com/VictorCeballos/KAUST-AI-SS/tree/main/Week%204%20-%20Reinforcement%20Learning/Labs/4_StableBaselines3_Solutions/4_StableBaselines3_Solution_2.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
+    <td align="center"><a href="https://colab.research.google.com/github.com/VictorCeballos/KAUST-AI-SS/tree/main/Week%204%20-%20Reinforcement%20Learning/Labs/4_StableBaselines3_Solutions/4_StableBaselines3_Solution_3.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
+    <td align="center"><a href="https://colab.research.google.com/github.com/VictorCeballos/KAUST-AI-SS/tree/main/Week%204%20-%20Reinforcement%20Learning/Labs/4_StableBaselines3_Solutions/4_StableBaselines3_Solution_4.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
+    <td align="center"><a href="https://colab.research.google.com/github.com/VictorCeballos/KAUST-AI-SS/tree/main/Week%204%20-%20Reinforcement%20Learning/Labs/4_StableBaselines3_Solutions/4_StableBaselines3_Solution_5.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
+    <td align="center"><a href="https://colab.research.google.com/github.com/VictorCeballos/KAUST-AI-SS/tree/main/Week%204%20-%20Reinforcement%20Learning/Labs/4_StableBaselines3_Solutions/4_StableBaselines3_Solution_6.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
+    <td align="center"><a href="https://colab.research.google.com/github.com/VictorCeballos/KAUST-AI-SS/tree/main/Week%204%20-%20Reinforcement%20Learning/Labs/4_StableBaselines3_Solutions/4_StableBaselines3_Solution_7.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
+    <td align="center"><a href="https://colab.research.google.com/github.com/VictorCeballos/KAUST-AI-SS/tree/main/Week%204%20-%20Reinforcement%20Learning/Labs/4_StableBaselines3_Solutions/4_StableBaselines3_Solution_8.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
   </tr>
   <tr>
     <td>Model Based RL</td>
