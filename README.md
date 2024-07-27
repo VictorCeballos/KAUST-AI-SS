@@ -192,7 +192,7 @@ experts from academia.
   </tr>
 </table>
 
-## Week 5 - Natural Language Processing
+## Week 5&6 - Natural Language Processing
 
 <table>
   <tr>
@@ -236,11 +236,6 @@ experts from academia.
     <td align="center"></td>
     <td align="center"></td>
   </tr>
-</table>
-
-## Week 6 - Natural Language Processing
-
-<table>
   <tr>
     <th></th>
     <th><b>Lectures</b></th>
