@@ -237,12 +237,6 @@ experts from academia.
     <td align="center"></td>
   </tr>
   <tr>
-    <th></th>
-    <th><b>Lectures</b></th>
-    <th colspan="2"><b>Labs</b></th>
-    <th><b>Solutions</b></th>
-  </tr>
-  <tr>
     <td></td>
     <td align="center"></td>
     <td align="center"></td>
