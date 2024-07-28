@@ -202,7 +202,7 @@ experts from academia.
     <th><b>Solutions</b></th>
   </tr>
   <tr>
-    <td>Intro</td>
+    <td>Sentiment Analysis</td>
     <td align="center"></td>
     <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%205%20-%20Natural%20Language%20Processing/Labs/Lab1_Sentiment_Analysis.ipynb">Lab 1</a></td>
     <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%205%20-%20Natural%20Language%20Processing/Labs/Lab1_Sentiment_Analysis.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
@@ -213,7 +213,7 @@ experts from academia.
     <td align="center"></td>
     <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%205%20-%20Natural%20Language%20Processing/Labs/Lab2_Tokenization_NGram_Model.ipynb">Lab 2</a></td>
     <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%205%20-%20Natural%20Language%20Processing/Labs/Lab2_Tokenization_NGram_Model.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
-    <td align="center"></td>
+    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%205%20-%20Natural%20Language%20Processing/Labs/Lab2_Tokenization_NGram_Model_Solution.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
   </tr>
   <tr>
     <td></td>
