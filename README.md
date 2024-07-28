@@ -211,8 +211,8 @@ experts from academia.
   <tr>
     <td>NGram Language Model</td>
     <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%205%20-%20Natural%20Language%20Processing/Labs/Lab2_Tokenization_NGram_Model.ipynb">Lab 1</a></td>
+    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%205%20-%20Natural%20Language%20Processing/Labs/Lab2_Tokenization_NGram_Model.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
     <td align="center"></td>
   </tr>
   <tr>
