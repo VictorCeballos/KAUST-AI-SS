@@ -217,8 +217,8 @@ experts from academia.
   </tr>
   <tr>
     <td></td>
-    <td align="center">Basics</td>
-    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%205%20-%20Natural%20Language%20Processing/Labs/Lab2_Tokenization_NGram_Model.ipynb">Lab 2</a><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%205%20-%20Natural%20Language%20Processing/Labs/Lab2_Tokenization_NGram_Model.ipynb">Lab 2</a></td>
+    <td align="center"></td>
+    <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
