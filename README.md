@@ -227,7 +227,7 @@ experts from academia.
     <td align="center"></td>
     <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%205%20-%20Natural%20Language%20Processing/Labs/Day3_lab2.ipynb">Lab 4</a></td>
     <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%205%20-%20Natural%20Language%20Processing/Labs/Day3_lab2.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
-    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%205%20-%20Natural%20Language%20Processing/Labs/Day3_lab2.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
+    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%205%20-%20Natural%20Language%20Processing/Labs/Day3_lab2_sol.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
   </tr>
   <tr>
     <td></td>
