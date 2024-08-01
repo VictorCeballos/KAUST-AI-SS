@@ -1,2 +1,27 @@
 import torch
 
+# Find letter index from all_letters, e.g. "a" = 0
+def letterToIndex(letter):
+    return all_letters.find(letter)
+
+# Just for demonstration, turn a letter into a <1 x n_letters> Tensor
+def letterToTensor(letter):
+    #To Do start
+    tensor = torch.zeros(1, n_letters)
+    tensor[0][letterToIndex(letter)] = 1
+    #To Do end
+    return tensor
+
+# Turn a line into a <line_length x 1 x n_letters>,
+# or an array of one-hot letter vectors
+def lineToTensor(line):
+    #To Do start
+    tensor = torch.zeros(len(line), 1, n_letters) ### Inatialize the 1hot vector with zeros
+    for li, letter in enumerate(line):
+        tensor[li][0][letterToIndex(letter)] = 1 ### Fill the correct letter index with 1
+    #To Do end
+    return tensor
+
+print(letterToTensor('J').size(), letterToTensor('J'))
+
+print(lineToTensor('Jones').size())
