@@ -1,1 +1,32 @@
+import torch.nn as nn
+import torch.nn.functional as F
 
+class RNN(nn.Module):
+    def __init__(self, input_size, hidden_size, output_size):
+        super(RNN, self).__init__()
+        #To Do start
+        # Hint: 
+        self.hidden_size = hidden_size
+
+        self.i2h = nn.Linear(input_size, hidden_size) ### construct FC1a
+        self.h2h = nn.Linear(hidden_size, hidden_size) ### construct FC1b
+        self.h2o = nn.Linear(hidden_size, output_size) ### construct FC2
+        #To Do end
+        self.softmax = nn.LogSoftmax(dim=1)
+
+    def forward(self, input, hidden): ### implement the forward propegation
+        #To Do start
+        hidden = F.tanh(self.i2h(input) + self.h2h(hidden))
+        output = self.h2o(hidden)
+        output = self.softmax(output)
+        #To Do end
+        return output, hidden
+
+    def initHidden(self): ### Inatialize h0 to zeros when 'initHidden' is called
+        # Initialize the network by constructing a zeros tensor that will be inputted to the 'hidden state'.
+        #To Do start
+        return torch.zeros(1, self.hidden_size) #To DO? Inatialze the hidden input into zeros
+        #To Do end
+
+n_hidden = 128
+rnn = RNN(n_letters, n_hidden, n_categories)
