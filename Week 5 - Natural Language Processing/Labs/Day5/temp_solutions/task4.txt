@@ -23,3 +23,46 @@ def train(category_tensor, line_tensor):
         p.data.add_(p.grad.data, alpha=-learning_rate)
 
     return output, loss.item()
+
+#################################################################
+
+import time
+import math
+
+n_iters = 100000
+print_every = 5000
+plot_every = 1000
+
+# Keep track of losses for plotting
+current_loss = 0
+all_losses = []
+
+def timeSince(since):
+    now = time.time()
+    s = now - since
+    m = math.floor(s / 60)
+    s -= m * 60
+    return '%dm %ds' % (m, s)
+
+start = time.time()
+
+#To Do start
+for iter in range(1, n_iters + 1):
+# for iter in None:
+    # Find current_loss
+    category, line, category_tensor, line_tensor = randomTrainingExample() ### pick a random sample
+    output, loss = train(category_tensor, line_tensor)  ### train on it and find the loss
+    current_loss += loss   ### update the loss until we reach 'plot_every'
+    # current_loss = None
+#To Do end
+
+    # Print ``iter`` number, loss, name and guess
+    if iter % print_every == 0:   ### if we reached the print limit, print the output
+        guess, guess_i = categoryFromOutput(output)
+        correct = '✓' if guess == category else '✗ (%s)' % category
+        print('%d %d%% (%s) %.4f %s / %s %s' % (iter, iter / n_iters * 100, timeSince(start), loss, line, guess, correct))
+
+    # Add current loss avg to list of losses
+    if iter % plot_every == 0:   ### if we reached the plot limit, plot the current_loss and reset it to zero
+        all_losses.append(current_loss / plot_every)
+        current_loss = 0
