@@ -1,1 +1,20 @@
+import random
+
+def randomChoice(l):
+    return l[random.randint(0, len(l) - 1)]
+
+def randomTrainingExample():
+    # sample a random surname (i.e. line) with its langauge of origin (i.e. category)
+    # Hint: get use of the variables 'all_categories' and 'category_lines'
+    #To Do start
+    category = randomChoice(all_categories)   ### choose a random category (i.e. language of origin)
+    line = randomChoice(category_lines[category]) ### choose a random line (i.e. a surname)
+    category_tensor = torch.tensor([all_categories.index(category)], dtype=torch.long) ### convert them to tensors
+    line_tensor = lineToTensor(line)
+    #To Do end
+    return category, line, category_tensor, line_tensor # e.g. Czech, Wood, tensor([0]), tensor with size (4, 1, 57)
+
+for i in range(10):
+    category, line, category_tensor, line_tensor = randomTrainingExample() ### run 10 examples
+    print('category =', category, '/ line =', line)
 
