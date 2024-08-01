@@ -1,1 +1,25 @@
+learning_rate = 0.005 # If you set this too high, it might explode. If too low, it might not learn
 
+def train(category_tensor, line_tensor):
+    #To Do start
+    hidden = rnn.initHidden()
+    # hidden = None # initialize the hidden state; hint: you already built the needed method
+    #To Do start
+
+    rnn.zero_grad()
+
+    #To Do start
+    for i in range(line_tensor.size()[0]): ### go through letter by letter
+        output, hidden = rnn(line_tensor[i], hidden)
+        # output, hidden = None, None
+
+    loss = criterion(output, category_tensor) ### compute the loos using the correct label and the predicted output
+    # loss = None
+    #To Do end
+    loss.backward()   ### performe back propogation
+
+    # Add parameters' gradients to their values, multiplied by learning rate
+    for p in rnn.parameters(): ### update the RNN model's parameters th_n=th_o-a*grad
+        p.data.add_(p.grad.data, alpha=-learning_rate)
+
+    return output, loss.item()
