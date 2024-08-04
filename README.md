@@ -232,21 +232,21 @@ experts from academia.
   <tr>
     <td>Surname classification_RNN</td>
     <td align="center"></td>
-    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%205%20-%20Natural%20Language%20Processing/Labs/Day5/Lab5.ipynb"> classification_RNN </a></td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%205%20-%20Natural%20Language%20Processing/Labs/Day5/Lab5.ipynb"> Lab6a </a></td>
     <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%205%20-%20Natural%20Language%20Processing/Labs/Day5/Lab5.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
     <td align="center"></td>
   </tr>
   <tr>
     <td>Word Window Classification</td>
     <td align="center"></td>
-    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/tree/main/Week%205%20-%20Natural%20Language%20Processing/Labs/day7/Monday_5Aug_lab1.ipynb"> Word Window Classification </a></td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/tree/main/Week%205%20-%20Natural%20Language%20Processing/Labs/day7/Monday_5Aug_lab1.ipynb"> Lab5 </a></td>
     <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%205%20-%20Natural%20Language%20Processing/Labs/day7/Monday_5Aug_lab1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
     <td align="center"></td>
   </tr>
   <tr>
     <td>Generating Names with a Character-Level RNN</td>
     <td align="center"></td>
-    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/tree/main/Week%205%20-%20Natural%20Language%20Processing/Labs/day7/Monday_5Aug_lab2.ipynb"> Word Window Classification </a></td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/tree/main/Week%205%20-%20Natural%20Language%20Processing/Labs/day7/Monday_5Aug_lab2.ipynb"> Lab6b </a></td>
     <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%205%20-%20Natural%20Language%20Processing/Labs/day7/Monday_5Aug_lab2.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
     <td align="center"></td>
   </tr>
