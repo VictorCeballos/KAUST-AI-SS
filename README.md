@@ -141,8 +141,8 @@ experts from academia.
     <td>Normalizing Flows</td>
     <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%203%20-%20Generative%20Deep%20Learning/Slides/4_NFs.pdf">Slides</a></td>
     <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%203%20-%20Generative%20Deep%20Learning/Labs/NF_mnist_Exercise.ipynb">Lab 4</a></td>
-    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%203%20-%20Generative%20Deep%20Learning/Labs/NF_mnist_Exercise.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>    
-    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%203%20-%20Generative%20Deep%20Learning/Labs/NF_mnist_Solution.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>    
+    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%203%20-%20Generative%20Deep%20Learning/Labs/NF_mnist_Exercise.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
+    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%203%20-%20Generative%20Deep%20Learning/Labs/NF_mnist_Solution.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
   </tr>
   <tr>
     <td>Diffusion Models</td>
@@ -229,7 +229,7 @@ experts from academia.
     <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%205%20-%20Natural%20Language%20Processing/Labs/Day3_lab2.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
     <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%205%20-%20Natural%20Language%20Processing/Labs/Day3_lab2_sol.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
   </tr>
-  <tr> 
+  <tr>
     <td>Surname classification_RNN</td>
     <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%205%20-%20Natural%20Language%20Processing/Slides/cs224n-2023-lecture06-fancy-rnn.pdf">Slides</a></td>
     <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%205%20-%20Natural%20Language%20Processing/Labs/Day5/Lab5.ipynb"> Lab6a </a></td>
@@ -258,11 +258,17 @@ experts from academia.
     <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%205%20-%20Natural%20Language%20Processing/Labs/Day8/lab4_solved.ipynb"> Solution </a></td>
   </tr>
   <tr>
-    <td></td>
+    <td>Translation</td>
     <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%205%20-%20Natural%20Language%20Processing/Labs/Lab9_a_exercise.ipynb"> Lab9-a</a><br>
+    <a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%205%20-%20Natural%20Language%20Processing/Labs/Lab9_b_exercise.ipynb"> Lab9-b</a>
+    </td>
+    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%205%20-%20Natural%20Language%20Processing/Labs/Lab9_a_exercise.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a><br>
+    <a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%205%20-%20Natural%20Language%20Processing/Labs/Lab9_b_exercise.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
+    </td>
+    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%205%20-%20Natural%20Language%20Processing/Labs/Lab9_a_solution.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a><br>
+    <a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%205%20-%20Natural%20Language%20Processing/Labs/Lab9_b_solution.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
+    </td>
   </tr>
   <tr>
     <td></td>
