@@ -194,6 +194,8 @@ experts from academia.
 
 ## Week 5&6 - Natural Language Processing
 
+[Link to Stanford's CS224N slides](https://web.stanford.edu/class/cs224n/slides/)
+
 <table>
   <tr>
     <th></th>
@@ -231,7 +233,7 @@ experts from academia.
   </tr>
   <tr>
     <td>Surname classification_RNN</td>
-    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%205%20-%20Natural%20Language%20Processing/Slides/cs224n-2023-lecture06-fancy-rnn.pdf">Slides</a></td>
+    <td align="center"></td>
     <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%205%20-%20Natural%20Language%20Processing/Labs/Day5/Lab5.ipynb"> Lab6a </a></td>
     <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%205%20-%20Natural%20Language%20Processing/Labs/Day5/Lab5.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
     <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%205%20-%20Natural%20Language%20Processing/Labs/Day5/Lab5_solution.ipynb"> Solution </a></td>
