@@ -260,9 +260,16 @@ experts from academia.
     <a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%205%20-%20Natural%20Language%20Processing/Labs/Lab9_b_solution.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
   </tr>
   <tr>
-    <td></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td>Transformers</td>
+    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%205%20-%20Natural%20Language%20Processing/Labs/Transformers_and_MHAttention.ipynb">Lab 10a</a><br>
+    <a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%205%20-%20Natural%20Language%20Processing/Labs/translation_transformer_exercise.ipynb">Lab 10b</a>
+    </td>
+    <td align="center">
+    <a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%205%20-%20Natural%20Language%20Processing/Labs/Transformers_and_MHAttention.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a><br>
+    <a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%205%20-%20Natural%20Language%20Processing/Labs/translation_transformer_exercise.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
+    </td>
+    <td align="center">
+    <a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%205%20-%20Natural%20Language%20Processing/Labs/translation_transformer_solution.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
+    </td>
   </tr>
 </table>
