@@ -230,7 +230,7 @@ experts from academia.
     <td>Word Window Classification</td>
     <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/tree/main/Week%205%20-%20Natural%20Language%20Processing/Labs/day7/Monday_5Aug_lab1.ipynb">Lab 5</a></td>
     <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%205%20-%20Natural%20Language%20Processing/Labs/day7/Monday_5Aug_lab1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
-    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/tree/main/Week%205%20-%20Natural%20Language%20Processing/Labs/day7/Monday_5Aug_lab1_solution.ipynb"> Solution </a></td>
+    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%205%20-%20Natural%20Language%20Processing/Labs/day7/Monday_5Aug_lab1_solution.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
   </tr>
   <tr>
     <td>Surname classification with RNNs</td>
@@ -248,7 +248,7 @@ experts from academia.
     <td>RNN for Sentiment Analysis</td>
     <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%205%20-%20Natural%20Language%20Processing/Labs/Day8/lab4.ipynb">Lab 7</a></td>
     <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%205%20-%20Natural%20Language%20Processing/Labs/Day8/lab4.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
-    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%205%20-%20Natural%20Language%20Processing/Labs/Day8/lab4_solved.ipynb"> Solution </a></td>
+    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%205%20-%20Natural%20Language%20Processing/Labs/Day8/lab4_solved.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
   </tr>
   <tr>
     <td>Translation</td>
